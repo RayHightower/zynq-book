@@ -1,1 +1,1 @@
-Sample code from They Zynq Book.
+Sample code from [The Zynq Book](http://www.zynqbook.com/).
