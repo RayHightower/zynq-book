@@ -3,5 +3,5 @@ Zynq Book Samples
 
 Sample code from [The Zynq Book](http://www.zynqbook.com/).
 
-The Zync SoC includes 2 ARM cores plus a field programmable gate array.  These samples will let us explore the chip.
+The Zync SoC includes 2 ARM cores plus a field programmable gate array (FPGA).  These samples will let us explore the chip.
 
